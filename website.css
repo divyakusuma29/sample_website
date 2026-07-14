@@ -1,0 +1,441 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.sec1{
+    height: 400px;
+    background-image: url("https://www.w3schools.com/w3images/parallax1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.navbar{
+    padding-top: 15px;  
+}
+ul>li{
+    margin-left: 25px;
+    color: grey;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.li2{
+    margin-top: -20px;
+    margin-left: 115px;
+}
+.li3{
+    margin-top: -20px;
+    margin-left: 195px;
+}
+.li4{
+    margin-top: -20px;
+    margin-left: 315px;
+}
+.p1{
+    font-size:37px;
+    font-family: sans-serif;
+    width:350px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    padding-left:40px;
+    padding-right: 30px;
+    padding-top: 12px;
+    padding-bottom: 18px;
+    margin-top: 135px;
+    margin-left: 550px;
+    text-align: center;
+}
+.p2{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: grey;
+}
+.p3{
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-bottom: 15px;
+    text-align: center;
+    color: grey;
+}
+.pre1{
+    font-size: 15px;
+    margin-left: 225px;
+    color: grey;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    line-height: 25px;
+}
+.b1{
+    color: grey;
+    margin-left: 470px;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+.sec2>img{
+    height: 250px;
+    width: 385px;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.pre2{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: grey;
+    margin-top: -314px;
+    margin-left: 740px;
+    line-height: 25px;
+}
+.p4{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: grey;
+}
+.pre3{
+    color: grey;
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-left: 265px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.box1{
+    height: 30px;
+    width: 875px;
+    background-color:rgb(93, 91, 91);
+    margin-left: 265px;
+    text-align: center;
+    color: white;
+    padding-top: 8px;
+}
+.box2{
+    height: 30px;
+    width: 835px;
+    background-color: rgb(93, 91, 91);
+    margin-left: 265px;
+    text-align: center;
+    color: white;
+    padding-top: 8px;
+}
+.box3{
+    height: 30px;
+    width: 735px;
+    background-color:rgb(93, 91, 91);
+    margin-left: 265px;
+    text-align: center;
+    color: white;
+    padding-top: 8px;
+}
+.box11{
+    height:30px;
+    width:80px;
+    background-color:rgb(242, 242, 238);
+    margin-top: -38px;
+    margin-left: 1140px;
+    padding-top: 8px;
+}
+.box21{
+    height:30px;
+    width:120px;
+    background-color:rgb(242, 242, 238);
+    margin-top: -38px;
+    margin-left: 1100px;
+    padding-top: 8px;
+}
+.box31{
+    height:30px;
+    width:220px;
+    background-color:rgb(242, 242, 238);
+    margin-top: -38px;
+    margin-left: 1000px;
+    padding-top: 8px;
+}
+.navbar1{
+    margin-top: 50px;
+    height: 100px;
+    background-color: rgb(93, 91, 91);
+    padding-top: 20px;
+}
+.ul1>li{
+    color: white;
+}
+.li5{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left: 150px;
+}
+.li6{
+    margin-top: -28px;
+    margin-left: 550px;
+    font-size: 25px;
+}
+.li7{
+    margin-top: -29px;
+    margin-left: 950px;
+    font-size: 25px;
+}
+.li8{
+    margin-top: -28px;
+    margin-left: 1300px;
+    font-size: 25px;
+}
+.li9{
+    margin-top: 4px;
+    margin-left: 144px;
+    font-size: 15px;
+}
+.li10{
+    margin-top: -18px;
+    margin-left: 524px;
+    font-size: 15px;
+
+}
+.li11{
+    margin-top: -18px;
+    margin-left: 924px;
+    font-size: 15px;
+
+}
+.li12{
+    margin-top: -18px;
+    margin-left: 1298px;
+    font-size: 15px;
+}
+.div1{
+    height: 400px;
+    background-image: url("	https://www.w3schools.com/w3images/parallax2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pre4{
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-left: 595px;
+    padding-top: 200px;
+    margin-bottom: 60px;
+}
+.p5{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: grey;
+}
+.p6{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: grey;
+}
+.p7{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-top: -10px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: grey;
+}
+.sec4{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.img1{
+    height: 150px;
+    width:200px;
+    margin-right:15px;
+}
+.img2{
+    height: 150px;
+    width:200px;
+    margin-right:15px;
+}
+.img3{
+    height: 150px;
+    width:200px;
+    margin-right:15px;
+}
+.img4{
+    height: 150px;
+    width:200px;
+    margin-right:15px;
+}
+.img5{
+    height: 150px;
+    width:200px;
+    margin-right:15px;
+}
+.img6{
+    height: 150px;
+    width:200px;
+    margin-right:15px;
+}
+.img7{
+    height: 150px;
+    width:200px;
+    margin-right:15px;
+}
+.img8{
+    height: 150px;
+    width:200px;
+    margin-right:15px;
+}
+.btn{
+    padding-top:15px;
+    padding-bottom: 15px;
+    border: none;
+    width:140px;
+    font-size: 15px;
+     margin-bottom: 90px;
+}
+.div2{
+    height: 400px;
+    background-image: url("	https://www.w3schools.com/w3images/parallax3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pre5{
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-left: 625px;
+    padding-top: 190px;
+    margin-bottom: 60px;
+}
+.p8{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: grey;
+}
+.p9{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: grey;
+}
+.sec5>img{
+    height: 150px;
+    width:250px;
+    margin-left: 300px;
+
+}
+.pre6{
+    margin-top: -140px;
+    margin-left: 640px;
+    color: grey;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.pre7{
+    margin-top: 10px;
+    margin-left: 640px;
+    color: grey;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.pre8{
+    margin-top: 10px ;
+    margin-left: 640px;
+    color: grey;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.pre9{
+    margin-top: 18px ;
+    margin-left: 600px;
+    color: grey;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.inp1{
+    margin-left: 600px;
+    height: 40px;
+    width: 300px;
+
+}
+.inp2{
+    margin-left:15px;
+    height: 40px;
+    width: 300px;
+}
+.inp3{
+    margin-top: 10px;
+    margin-left: 600px;
+    height: 40px;
+    width: 622px;
+}
+.inp1::placeholder{
+    padding-left:5px ;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.inp2::placeholder{
+    padding-left:5px ;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.inp3::placeholder{
+    padding-left:5px ;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.btn1{
+    border: none;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 1085px;
+    padding: 10px;
+    margin-bottom: 130px;
+}
+.btn1:hover{
+    background-color: rgb(217, 213, 213);
+    color: black;
+}
+.div3{
+    height:300px;
+    background-color: grey;
+}
+.btn2{
+    margin-top: 60px;
+    padding: 15px;
+    width: 150px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: grey;
+    margin-bottom: 70px;
+}
+.p10{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    
+}
+.p10>a{
+    color: white;
+}
+.div3:hover{
+    background-color: black;
+}
